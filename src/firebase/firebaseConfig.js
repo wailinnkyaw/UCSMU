@@ -1,8 +1,8 @@
 export default {
-    apiKey: "API_KEY",
-    authDomain: "AUTH_DOMAIN",
-    databaseURL: "DATABASE_URL",
-    projectId: "PROJECT_ID",
-    storageBucket: "STORAGE_BUCKET",
-    messagingSenderId: "MESSAGING_SENDER_ID"
-  }
+  apiKey: "AIzaSyCnqKbb05r2sCsfaDeXtTlNrJ5i1bLp4Gk",
+  authDomain: "ucsmu-41cf3.firebaseapp.com",
+  databaseURL: "https://ucsmu-41cf3.firebaseio.com",
+  projectId: "ucsmu-41cf3",
+  storageBucket: "",
+  messagingSenderId: "323986235616"
+}
